@@ -14,5 +14,14 @@
                 <li>Scotty</li>
             </ul>
         </div>
+        <div>
+            <ul>
+                <li>fire</li>
+                <li>oil</li>
+                <li>torch</li>
+                <li>tinder</li>
+                <li>PyroBlast</li>
+            </ul>
+        </div>
     </body>
 </html>
